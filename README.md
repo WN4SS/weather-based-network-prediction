@@ -1,5 +1,5 @@
 # A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks
-[[arXiv]()] [[Project Page]()] [[Bibtex]()]
+[[arXiv](https://www.techrxiv.org/users/692934/articles/1239831-a-machine-learning-framework-for-weather-based-signal-strength-prediction-in-private-lte-5g-networks)] [[Project Page]()] [[Bibtex]()]
 ## Installing Dependencies
 We recommend using python venv to manage dependencies
 ```zsh
@@ -18,8 +18,20 @@ Once the datasets are setup, run the following command to train using the optima
 python3 experiment.py --version 7
 ~~~
 ## Citing the paper
-If you find this data helpful, please cite:  
+If you find this code useful in your research, please consider citing our paper:
 
-    Citation1
-    Citation2
-    Citation3
+> Devasenapathy, K., Caezza, J. A., & Malandra, F. (2024). A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks. Authorea Preprints.
+> [arXiv](https://www.techrxiv.org/users/692934/articles/1239831-a-machine-learning-framework-for-weather-based-signal-strength-prediction-in-private-lte-5g-networks)
+
+BibTeX entry:
+```bibtex
+@article{your_paper_key,
+  author    = {Your Name and Co-authors},
+  title     = {Title of the Paper},
+  journal   = {Journal/Conference Name},
+  year      = {Year},
+  volume    = {Volume},
+  number    = {Number},
+  pages     = {Pages},
+  doi       = {DOI link}
+}
