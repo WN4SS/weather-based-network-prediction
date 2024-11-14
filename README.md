@@ -10,17 +10,16 @@ pip install -r requirements.txt
 ```
 
 ## Dataset Preparation
-Please see [docs/dataset.md](docs/dataset.md) for instructions on preprocessing the KPI and weather datasets.
+Download the dataset from [Link](https://github.com/UB-IoT-Lab/CBRSdata). Please see [docs/dataset.md](docs/dataset.md) for instructions on replicating the preprocessing on KPI and weather datasets.
 
 # Training
 Once the datasets are setup, run the following command to train using the optimal feature combination
 ~~~zsh
 python3 experiment.py --version 7
 ~~~
-# Evaluation
-
 ## Citing the paper
-If you find this code helpful, please cite:
+If you find this data helpful, please cite:  
 
-
-
+    Citation1
+    Citation2
+    Citation3
