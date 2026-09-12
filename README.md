@@ -1,4 +1,4 @@
-# A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks
+# A Weather-based Framework to Predict Signal Strength in Cellular Networks using ML
 [[arXiv](https://www.techrxiv.org/users/692934/articles/1239831-a-machine-learning-framework-for-weather-based-signal-strength-prediction-in-private-lte-5g-networks)] [[Project Page]()] [[Bibtex]()]
 ## Installing Dependencies
 We recommend using python venv to manage dependencies
