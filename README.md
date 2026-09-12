@@ -1,5 +1,5 @@
 # A Weather-based Framework to Predict Signal Strength in Cellular Networks using ML
-[[arXiv](https://www.techrxiv.org/users/692934/articles/1239831-a-machine-learning-framework-for-weather-based-signal-strength-prediction-in-private-lte-5g-networks)] [[Project Page]()] [[Bibtex]()]
+[[arXiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173198458.82259958/v2)] [[Project Page]()] [[Bibtex]()]
 ## Installing Dependencies
 We recommend using python venv to manage dependencies
 ```zsh
