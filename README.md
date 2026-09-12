@@ -20,18 +20,14 @@ python3 experiment.py --version 7
 ## Citing the paper
 If you find this code useful in your research, please consider citing our paper:
 
-> Devasenapathy, K., Dash, B. K., & Malandra, F. (2024). A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks. Authorea Preprints.
-> [arXiv](https://www.techrxiv.org/users/692934/articles/1239831-a-machine-learning-framework-for-weather-based-signal-strength-prediction-in-private-lte-5g-networks)
+> Devasenapathy, K., Dash, B. K., & Malandra, F. (2025). A Weather-based Framework to Predict Signal Strength in Cellular Networks using ML. Authorea Preprints.
+> [arXiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173198458.82259958/v2)
 
 BibTeX entry:
 ```bibtex
-@article{your_paper_key,
-  author    = {Your Name and Co-authors},
-  title     = {Title of the Paper},
-  journal   = {Journal/Conference Name},
-  year      = {Year},
-  volume    = {Volume},
-  number    = {Number},
-  pages     = {Pages},
-  doi       = {DOI link}
+@article{devasenapathy2025weather,
+  title={A Weather-based Framework to Predict Signal Strength in Cellular Networks using ML},
+  author={Devasenapathy, Kishorkumar and Dash, Biswajit Kumar and Malandra, Filippo},
+  year={2025},
+  publisher={TechRxiv}
 }
